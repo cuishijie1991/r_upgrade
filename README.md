@@ -1,4 +1,4 @@
-# r_upgrade
+# r_upgrade（非官方分支，修复了Android14下载抛出异常问题）
 [![pub package](https://img.shields.io/pub/v/r_upgrade.svg)](https://pub.dartlang.org/packages/r_upgrade)
 
 ![](screen/r_upgrade.png)
